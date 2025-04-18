@@ -68,7 +68,3 @@ This project analyzes personal Spotify listening history to uncover patterns in 
 2. Open the `.pbix` file
 3. Explore visuals and slicers (platform, shuffle, skip, etc.)
 
-🧑‍💻 Author
-Vandana Kokkiligadda
-📧 vandanakofficial17@gmail.com
-[🔗](https://www.linkedin.com/in/vandana17) [LinkedIn]
