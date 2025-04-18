@@ -55,13 +55,13 @@ This project analyzes personal Spotify listening history to uncover patterns in 
 
 📂 Spotify-Listening-Analysis
 
-├── Spotify Listening History Analysis Dashboard.pbix   # Power BI Dashboard
-├── Spotify_History.pptx                                # Presentation slides (summary + visuals)
-├── Spotify Data Explanation.pdf                        # Full PDF report with analysis & insights
-├── Dashboard Overview.png                              # Dashboard cover image
-├── Listening Patterns.png                              # Listening pattern heatmap (time vs day)
-├── Spotify_Listening_Data.csv                          # Cleaned Spotify listening data 
-└── README.md                                           # Project overview and instructions
+─ Spotify Listening History Analysis Dashboard.pbix   # Power BI Dashboard
+─ Spotify_History.pptx                                # Presentation slides (summary + visuals)
+─ Spotify Data Explanation.pdf                        # Full PDF report with analysis & insights
+─ Dashboard Overview.png                              # Dashboard cover image
+─ Listening Patterns.png                              # Listening pattern heatmap (time vs day)
+─ Spotify_Listening_Data.csv                          # Cleaned Spotify listening data 
+─ README.md                                           # Project overview and instructions
 
 ## 🚀 How to View
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
